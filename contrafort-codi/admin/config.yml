@@ -1,9 +1,9 @@
 backend:
   name: github
-  repo: jordipintado/tu-repo # Pon aquí tu usuario/nombre-repo en GitHub
-  branch: main # O master, según tu repo
+  repo: jordipintado/contrafort-codi
+  branch: main
 
-media_folder: "images" # Carpeta para imágenes subidas
+media_folder: "images"
 public_folder: "/images"
 
 collections:
